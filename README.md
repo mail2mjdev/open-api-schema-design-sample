@@ -1,7 +1,5 @@
 # open-api-schema-design-sample
 
-
-# Dillinger
 Designing an API schema YAML file based on the Open API 3.0 specification involves defining the routes, parameters, responses, and other details about your API. Let's go through a basic example to demonstrate how this is done. In this example, we will create a simple API for a book store which has endpoints for adding a book, fetching all books, and getting a single book by its ID.
 
 1. Basic Information:
